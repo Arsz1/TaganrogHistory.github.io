@@ -169,7 +169,7 @@ img {
      height: auto;
      left: 44px;
      top: 20px;
-     position: absolute;
+     position: relative;
      text-align: center;
      color: black;
      font-size: 40px;
@@ -249,7 +249,7 @@ img {
 
 .starting {
      padding: 0;
-     max-height: 700px;
+     height: 700px;
      background-image: url(./images/taganrog.png);
      background-repeat: no-repeat;
      background-size: 100%;
