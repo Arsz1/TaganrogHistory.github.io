@@ -208,7 +208,7 @@ img {
     width: 35%;
     height: auto;
     left: 60%;
-    top: 120px;
+    top: 200px;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -223,7 +223,7 @@ img {
     width: 50%;
     height: auto;
     left: 16px;
-    bottom: 360px;
+    bottom: 300px;
 }
 
 .ban.bot {
